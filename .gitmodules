@@ -1,0 +1,3 @@
+[submodule "scripts/Format-Converter-Script"]
+	path = scripts/Format-Converter-Script
+	url = https://github.com/PlanTL-GOB-ES/MEDDOCAN-Format-Converter-Script
